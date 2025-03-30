@@ -22,5 +22,5 @@ A **Python-based** application for managing personal finances, tracking income a
 ### **Steps to Run the Project**  
 1. **Clone the repository**  
    ```sh
-  git clone https://github.com/YOUR_GITHUB_USERNAME/Personal-Finance-Tracker.git
-   cd Personal-Finance-Tracker
+  git clone [https://github.com/3107-vansh/Personal-Finance-Tracker.git]
+
